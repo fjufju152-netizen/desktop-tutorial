@@ -1,0 +1,4 @@
+﻿Batch,JPGRootCount,DCMRootCount,JPGCaseFolderCount,JPGImageCount,DICOMFileCount,DICOMPatientCount,DXCount,SRCount,OtherModalityCount,Modalities,BodyParts,NonDicomCount,ReadErrorCount
+Temp_260716_1,42,42,42,74,100,32,74,26,0,DX | SR,FOOT,0,0
+Temp_DX_260511-260611_289+279筆,1,1,289,486,455,138,288,167,0,DX | SR,FOOT,0,0
+Temp_DX_260708-260611_200筆,1,1,200,345,84,27,55,27,2,CR | DX | SR,FOOT,0,0
